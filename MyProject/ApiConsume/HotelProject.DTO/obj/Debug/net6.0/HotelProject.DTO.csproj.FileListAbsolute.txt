@@ -1,0 +1,17 @@
+C:\Users\w10\Desktop\udemy\apı\MyProject\ApiConsume\HotelProject.DTO\bin\Debug\net6.0\HotelProject.DTO.deps.json
+C:\Users\w10\Desktop\udemy\apı\MyProject\ApiConsume\HotelProject.DTO\bin\Debug\net6.0\HotelProject.DTO.runtimeconfig.json
+C:\Users\w10\Desktop\udemy\apı\MyProject\ApiConsume\HotelProject.DTO\bin\Debug\net6.0\HotelProject.DTO.dll
+C:\Users\w10\Desktop\udemy\apı\MyProject\ApiConsume\HotelProject.DTO\bin\Debug\net6.0\HotelProject.DTO.pdb
+C:\Users\w10\Desktop\udemy\apı\MyProject\ApiConsume\HotelProject.DTO\bin\Debug\net6.0\HotelProject.EntityLayer.dll
+C:\Users\w10\Desktop\udemy\apı\MyProject\ApiConsume\HotelProject.DTO\bin\Debug\net6.0\HotelProject.EntityLayer.pdb
+C:\Users\w10\Desktop\udemy\apı\MyProject\ApiConsume\HotelProject.DTO\obj\Debug\net6.0\HotelProject.DTO.csproj.AssemblyReference.cache
+C:\Users\w10\Desktop\udemy\apı\MyProject\ApiConsume\HotelProject.DTO\obj\Debug\net6.0\HotelProject.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w10\Desktop\udemy\apı\MyProject\ApiConsume\HotelProject.DTO\obj\Debug\net6.0\HotelProject.DTO.AssemblyInfoInputs.cache
+C:\Users\w10\Desktop\udemy\apı\MyProject\ApiConsume\HotelProject.DTO\obj\Debug\net6.0\HotelProject.DTO.AssemblyInfo.cs
+C:\Users\w10\Desktop\udemy\apı\MyProject\ApiConsume\HotelProject.DTO\obj\Debug\net6.0\HotelProject.DTO.csproj.CoreCompileInputs.cache
+C:\Users\w10\Desktop\udemy\apı\MyProject\ApiConsume\HotelProject.DTO\obj\Debug\net6.0\HotelProject.DTO.csproj.CopyComplete
+C:\Users\w10\Desktop\udemy\apı\MyProject\ApiConsume\HotelProject.DTO\obj\Debug\net6.0\HotelProject.DTO.dll
+C:\Users\w10\Desktop\udemy\apı\MyProject\ApiConsume\HotelProject.DTO\obj\Debug\net6.0\refint\HotelProject.DTO.dll
+C:\Users\w10\Desktop\udemy\apı\MyProject\ApiConsume\HotelProject.DTO\obj\Debug\net6.0\HotelProject.DTO.pdb
+C:\Users\w10\Desktop\udemy\apı\MyProject\ApiConsume\HotelProject.DTO\obj\Debug\net6.0\HotelProject.DTO.genruntimeconfig.cache
+C:\Users\w10\Desktop\udemy\apı\MyProject\ApiConsume\HotelProject.DTO\obj\Debug\net6.0\ref\HotelProject.DTO.dll
